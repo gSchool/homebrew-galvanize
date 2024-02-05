@@ -5,6 +5,7 @@ class CirrusSdk < Formula
   desc "Cirrus SDK for Galvanize"
   homepage "https://www.galvanize.com/"
   license "MIT"
+  version "2.1.11"
 
   on_macos do
     if Hardware::CPU.arm?
