@@ -9,3 +9,7 @@ Run the following command to add this repository:
 
 ```sh
 brew tap gSchool/galvanize
+brew update
+```
+
+![screenshot](screenshot.png)
